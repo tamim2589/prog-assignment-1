@@ -68,7 +68,7 @@ section {
 .banner-content {
   display: flex;
   flex-direction: column;
-  gap: 37px;
+  gap: 35px;
   align-items: center;
 }
 
