@@ -218,7 +218,7 @@ section {
 /* touch section */
 .touch-section {
   width: 1140px;
-  height: 632px;
+  height: 630px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -275,7 +275,6 @@ section {
   padding: 19px 201px;
 }
 
-
 .focus-section {
   background-color: white;
   width: 1140px;
@@ -313,7 +312,7 @@ footer {
 }
 
 .footer-container {
-  height: 428px;
+  height: 425px;
   display: flex;
   flex-direction: column;
   align-items: center;
