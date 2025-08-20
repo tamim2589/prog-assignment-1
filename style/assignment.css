@@ -125,7 +125,7 @@ section {
 
 .productive-users-section-content {
   display: flex;
-  gap: 158px;
+  gap: 150px;
 }
 
 .productive-users-section-content div {
@@ -147,6 +147,7 @@ section {
 }
 
 /* feedback section */
+
 .users-feedback-section {
   width: 1140px;
   height: 342px;
